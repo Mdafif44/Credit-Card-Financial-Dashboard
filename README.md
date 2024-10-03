@@ -1,12 +1,8 @@
-Credit Card Financial Data Analysis
+#Credit Card Financial Data Analysis
 Project Overview
 This project involves the analysis of credit card financial data using Power BI to create an interactive dashboard. The dashboard provides real-time insights into key performance metrics and trends, supporting data-driven decision-making processes.
 Author
 Mohammed Afif
-Date
-January 7, 2024
-Project Website
-https://mdafifdata.net/
 Features
 
 Interactive Power BI dashboard
